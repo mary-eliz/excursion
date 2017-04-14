@@ -30,3 +30,10 @@ h3{
   color: gray;
   font-weight: normal;
 }
+
+.copyright{
+  font-family: Verdana;
+  font-weight: normal;
+  text-align: right;
+  color: gray;
+}
