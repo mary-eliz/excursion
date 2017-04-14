@@ -1,11 +1,32 @@
 .main1{
-  font-family: verdana;
+  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
-  color: white
-  text-align: center;
+  color: White;
 }
 
 body{
-  background-color:black
+  background-color:black;
+  text-align: center;
+}
+
+.main2{
+  color: white;
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h5{
+  color: aquamarine;
+  font-size: 16px;
+  font-family: Verdana;
+  font-weight: normal;
+}
+
+h3{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  font-weight: normal;
 }
